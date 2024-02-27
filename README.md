@@ -1,4 +1,4 @@
-👋 Hi, I’m @DeviousPear
+👋 Hi, I’m @DeviousPear.
 I do web dev stuff
 <!---
 DeviousPear/DeviousPear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
